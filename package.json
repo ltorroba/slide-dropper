@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/zesme/slide-dropper/issues"
   },
-  "homepage": "https://github.com/zesme/slide-dropper#readme"
+  "homepage": "https://github.com/zesme/slide-dropper#readme",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "pdf-text-extract": "^1.5.0",
+    "scissors": "^0.2.3"
+  }
 }
