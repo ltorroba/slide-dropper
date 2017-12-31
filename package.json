@@ -1,0 +1,19 @@
+{
+  "name": "slide-dropper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zesme/slide-dropper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zesme/slide-dropper/issues"
+  },
+  "homepage": "https://github.com/zesme/slide-dropper#readme"
+}
